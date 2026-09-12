@@ -27,6 +27,7 @@
 ## LangChain应用场景
 
 ![[Pasted image 20260824135328.png]]
+<img width="972" height="541" alt="image" src="https://github.com/user-attachments/assets/bc6a9527-c5c4-405b-bc56-cb6976776350" />
 
 
 ## LangChain相关岗位
