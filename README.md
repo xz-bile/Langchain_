@@ -26,26 +26,29 @@
 
 ## LangChain应用场景
 
-![[Pasted image 20260824135328.png]]
 <img width="972" height="541" alt="image" src="https://github.com/user-attachments/assets/bc6a9527-c5c4-405b-bc56-cb6976776350" />
 
 
 ## LangChain相关岗位
 
-![[Pasted image 20260824135409.png]]
+<img width="900" height="428" alt="image" src="https://github.com/user-attachments/assets/1b8e7fc5-6963-4f2a-aeb8-9773da6d2e08" />
+
 
 
 ## LangChainv1.2主要模块
 
-![[Pasted image 20260824135639.png]]
+<img width="772" height="601" alt="image" src="https://github.com/user-attachments/assets/2794037e-c584-467e-9030-ef42bf080ea7" />
+
 
 ## Langchain四大家族支柱
 
-![[Pasted image 20260824135753.png]]
+<img width="767" height="487" alt="image" src="https://github.com/user-attachments/assets/9dac412a-9496-4dce-bd50-d3d62dae2dee" />
+
 
 ## AI agent
 
-![[Pasted image 20260824140245.png]]
+<img width="794" height="437" alt="image" src="https://github.com/user-attachments/assets/fb1a09c1-5683-4e8f-a246-5b55d1df1470" />
+
 
 
 # 模型的创建与调用
@@ -61,13 +64,15 @@
 
 ### DEEPSEEK
 
-![[Pasted image 20260826165132.png]]
+<img width="531" height="345" alt="image" src="https://github.com/user-attachments/assets/9cbb5cfc-9e77-4f11-aca1-a34d24024b01" />
 
-![[Pasted image 20260826165145.png]]
+<img width="475" height="153" alt="image" src="https://github.com/user-attachments/assets/8e352dfa-a82d-4697-a89f-e8fd1a464238" />
 
-![[Pasted image 20260826165221.png]]
+<img width="746" height="627" alt="image" src="https://github.com/user-attachments/assets/f85986c3-8f59-4b9e-b36b-d410a3c45303" />
 
-![[Pasted image 20260826165246.png]]
+
+<img width="518" height="359" alt="image" src="https://github.com/user-attachments/assets/1350b6d5-75a3-4ee3-a1a8-90cf45945567" />
+
 
 
 ## 兼容写法（ChatOpenAI）
